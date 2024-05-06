@@ -4,7 +4,8 @@
 
 * 🌍  I'm based in Russia, city: Penza
 *  ✉️  You can contact me at [ageev7623@gmail.com](mailto:ageev7623@gmail.com)
-*  🧠  I'm learning Django
+*  🧠  I'm currently learning Django
+*  :mortar_board: My Education: Bachelor 09.03.01 Informatics and computer technology
 
 <a href="https://www.github.com/Alexey917" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Alexey917?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
