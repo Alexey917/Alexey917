@@ -6,6 +6,9 @@
 *  ✉️  You can contact me at [ageev7623@gmail.com](mailto:ageev7623@gmail.com)
 *  🧠  I'm currently learning Django
 *  :mortar_board: My Education: Bachelor 09.03.01 Informatics and computer technology
+*  :mortar_board: Courses:
+    + Computer Academy TOP: Web Development with Python
+    + Glo Academy: Website Developer 1.0
 
 <a href="https://www.github.com/Alexey917" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Alexey917?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
