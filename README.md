@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Russia, city: Penza
 *  ✉️  You can contact me at [ageev7623@gmail.com](mailto:ageev7623@gmail.com)
-*  🧠  I'm currently learning Django
+*  🧠  I'm currently JavaScript
 *  :mortar_board: My Education: Bachelor 09.03.01 Informatics and computer technology
 *  :mortar_board: Courses:
     + Computer Academy TOP: Web Development with Python
